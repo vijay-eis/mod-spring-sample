@@ -30,7 +30,7 @@ import java.util.Map;
 @RestController
 @Log4j2
 public class Feature3Controller {
-    @GetMapping("/feature3a")
+    @GetMapping("/feature3")
     public ResponseEntity<Map<String, String>> methodF3a() {
         log.info("Inside methodF3...");
         Map<String, String> jsonResponse = new java.util.HashMap<String, String>(Collections.EMPTY_MAP);
