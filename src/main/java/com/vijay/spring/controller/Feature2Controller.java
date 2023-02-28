@@ -31,7 +31,7 @@ import java.util.Map;
 @Log4j2
 public class Feature2Controller {
 
-    @GetMapping("/f2")
+    @GetMapping("/feature2")
     public ResponseEntity<Map<String, String>> methodF2() {
         log.info("Handling the /f2 route");
         Map<String, String> jsonResponse = new java.util.HashMap<String, String>(Collections.EMPTY_MAP);
@@ -40,7 +40,7 @@ public class Feature2Controller {
         return ResponseEntity.ok(jsonResponse);
     }
 
-    @GetMapping("/f21a")
+    @GetMapping("/feature21")
     public ResponseEntity<Map<String, String>> methodF21() {
         log.info("Handling the /f21a route");
         String keyPrefix = "FOLIO_";
