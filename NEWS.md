@@ -1,3 +1,24 @@
+        ## [v1.0.1](https://gitlab.com/html-validate/html-validate/compare/v1.0.1) (2023-03-01)
+
+            ### :stop_sign: Breaking changes :stop_sign:
+
+                    -  [US00005](https://rally1.rallydev.com/#/search?keywords=US00005)  General refactoring ([c5d1f80d3235e59](https://github.com/vijay-eis/mod-spring-sample/commit/c5d1f80d3235e59))
+
+
+            ### :sparkle: Features :sparkle:
+
+                    -  [US00005](https://rally1.rallydev.com/#/search?keywords=US00005)  General refactoring ([c5d1f80d3235e59](https://github.com/vijay-eis/mod-spring-sample/commit/c5d1f80d3235e59))
+
+
+
+        ## [v1.0.0](https://gitlab.com/html-validate/html-validate/compare/v1.0.0) (2023-02-28)
+
+
+
+
+
+
+
 
 # mod-spring-sample changelog
 
