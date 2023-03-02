@@ -44,7 +44,7 @@ public class Feature2Controller {
     @GetMapping("/feature21")
     public ResponseEntity<Map<String, String>> methodF21() {
         log.info("Handling the /f21a route");
-        String keyPrefix = "FOLIO_";
+        String keyPrefix = "FO_";
         Map<String, String> jsonResponse = new java.util.HashMap<String, String>(Collections.EMPTY_MAP);
         jsonResponse.put(keyPrefix + "6sifhXZfpdwi4RU2cHGqj", "value 1");
         jsonResponse.put(keyPrefix + "i8avDwAUcjBiS64CijqDT", "value 2");
