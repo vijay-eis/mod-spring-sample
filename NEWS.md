@@ -1,3 +1,28 @@
+        ## [v1.0.2](https://gitlab.com/html-validate/html-validate/compare/v1.0.2) (2023-03-02)
+
+            ### :stop_sign: Breaking changes :stop_sign:
+
+                    -  [US00013](https://rally1.rallydev.com/#/search?keywords=US00013)  Removed Hello world controller ([bde77e578c30105](https://github.com/vijay-eis/mod-spring-sample/commit/bde77e578c30105))
+
+
+            ### :sparkle: Features :sparkle:
+
+                    -  [US00012](https://rally1.rallydev.com/#/search?keywords=US00012)  Log exit point in the controller ([e2952f5e1f25727](https://github.com/vijay-eis/mod-spring-sample/commit/e2952f5e1f25727))
+
+
+            ### :lady_beetle: Fixes :lady_beetle:
+
+                    -  [US00013](https://rally1.rallydev.com/#/search?keywords=US00013)  Removed Hello world controller ([bde77e578c30105](https://github.com/vijay-eis/mod-spring-sample/commit/bde77e578c30105))
+                    -  [US00011](https://rally1.rallydev.com/#/search?keywords=US00011)  Use shorter names for path ([a8c6b7800a2bc71](https://github.com/vijay-eis/mod-spring-sample/commit/a8c6b7800a2bc71))
+
+        ## [v1.0.1](https://gitlab.com/html-validate/html-validate/compare/v1.0.1) (2023-03-01)
+
+
+
+
+
+
+
         ## [v1.0.1](https://gitlab.com/html-validate/html-validate/compare/v1.0.1) (2023-03-01)
 
             ### :stop_sign: Breaking changes :stop_sign:

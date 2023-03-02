@@ -31,16 +31,17 @@ import java.util.Map;
 @Log4j2
 public class Feature2Controller {
 
-    @GetMapping("/feature2")
+    @GetMapping("/f2")
     public ResponseEntity<Map<String, String>> methodF2() {
         log.info("Handling the /f2 route");
         Map<String, String> jsonResponse = new java.util.HashMap<String, String>(Collections.EMPTY_MAP);
         String keyPrefix = "EIS_";
         jsonResponse.put(keyPrefix + "SdXN9V8ipcPCNPFERs3OR", "value 1");
+        log.info("Done with the /f2 route");
         return ResponseEntity.ok(jsonResponse);
     }
 
-    @GetMapping("/feature21")
+    @GetMapping("/f21")
     public ResponseEntity<Map<String, String>> methodF21() {
         log.info("Handling the /f21a route");
         String keyPrefix = "FOLIO_";
@@ -48,7 +49,7 @@ public class Feature2Controller {
         jsonResponse.put(keyPrefix + "6sifhXZfpdwi4RU2cHGqj", "value 1");
         jsonResponse.put(keyPrefix + "i8avDwAUcjBiS64CijqDT", "value 2");
         jsonResponse.put(keyPrefix + "i8avDwAUcjBiS64CijqDT", "value 3");
-
+        log.info("Done with the /f21a route");
         return ResponseEntity.ok(jsonResponse);
     }
 
