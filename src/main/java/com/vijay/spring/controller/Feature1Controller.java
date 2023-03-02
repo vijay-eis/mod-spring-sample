@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Log4j2
 public class Feature1Controller {
 
-    @GetMapping("/feature1")
+    @GetMapping("/f1")
     public String index() {
         log.info("Handling index route for feature 1....");
         return "Some message";
