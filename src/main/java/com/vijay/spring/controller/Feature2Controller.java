@@ -37,6 +37,7 @@ public class Feature2Controller {
         Map<String, String> jsonResponse = new java.util.HashMap<String, String>(Collections.EMPTY_MAP);
         String keyPrefix = "EIS_";
         jsonResponse.put(keyPrefix + "SdXN9V8ipcPCNPFERs3OR", "value 1");
+        log.info("Done with the /f2 route");
         return ResponseEntity.ok(jsonResponse);
     }
 
@@ -48,7 +49,7 @@ public class Feature2Controller {
         jsonResponse.put(keyPrefix + "6sifhXZfpdwi4RU2cHGqj", "value 1");
         jsonResponse.put(keyPrefix + "i8avDwAUcjBiS64CijqDT", "value 2");
         jsonResponse.put(keyPrefix + "i8avDwAUcjBiS64CijqDT", "value 3");
-
+        log.info("Done with the /f21a route");
         return ResponseEntity.ok(jsonResponse);
     }
 
