@@ -1,3 +1,27 @@
+        ## [v1.0.3](https://gitlab.com/html-validate/html-validate/compare/v1.0.3) (2023-03-02)
+
+            ### :stop_sign: Breaking changes :stop_sign:
+
+                    -  [US00014](https://rally1.rallydev.com/#/search?keywords=US00014)  Renamed the routes again ([3e366d7b9c68936](https://github.com/vijay-eis/mod-spring-sample/commit/3e366d7b9c68936))
+
+
+            ### :sparkle: Features :sparkle:
+
+                    -  [US00015](https://rally1.rallydev.com/#/search?keywords=US00015)  Added a new prefix for the keys ([34d2820ccb87bed](https://github.com/vijay-eis/mod-spring-sample/commit/34d2820ccb87bed))
+
+
+            ### :lady_beetle: Fixes :lady_beetle:
+
+                    -  [US00014](https://rally1.rallydev.com/#/search?keywords=US00014)  Renamed the routes again ([3e366d7b9c68936](https://github.com/vijay-eis/mod-spring-sample/commit/3e366d7b9c68936))
+
+        ## [v1.0.2](https://gitlab.com/html-validate/html-validate/compare/v1.0.2) (2023-03-02)
+
+
+
+
+
+
+
         ## [v1.0.2](https://gitlab.com/html-validate/html-validate/compare/v1.0.2) (2023-03-02)
 
             ### :stop_sign: Breaking changes :stop_sign:
