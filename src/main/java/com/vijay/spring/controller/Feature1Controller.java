@@ -29,7 +29,7 @@ public class Feature1Controller {
 
     @GetMapping("/feature1")
     public String index() {
-        log.info("Handling index route for feature 1....");
+        log.info("Handle index route for feature 1....");
         return "Some message";
     }
 
