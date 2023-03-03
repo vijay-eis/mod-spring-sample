@@ -1,3 +1,24 @@
+## [v1.0.7](https://gitlab.com/html-validate/html-validate/compare/v1.0.7) (2023-03-03)
+
+### :stop_sign: Breaking changes :stop_sign:
+-  [US00021](https://rally1.rallydev.com/#/search?keywords=US00021)  Change route to have a smaller name (#13) ([9eb756f482b9a99](https://github.com/vijay-eis/mod-spring-sample/commit/9eb756f482b9a99))
+
+
+### :sparkle: Features :sparkle:
+-  [US00022](https://rally1.rallydev.com/#/search?keywords=US00022)  Change route to have a bigger name (#14) ([ddcd59cd020540d](https://github.com/vijay-eis/mod-spring-sample/commit/ddcd59cd020540d))
+
+
+### :lady_beetle: Fixes :lady_beetle:
+-  [US00021](https://rally1.rallydev.com/#/search?keywords=US00021)  Change route to have a smaller name (#13) ([9eb756f482b9a99](https://github.com/vijay-eis/mod-spring-sample/commit/9eb756f482b9a99))
+
+## [v1.0.6](https://gitlab.com/html-validate/html-validate/compare/v1.0.6) (2023-03-03)
+
+
+
+
+
+
+
 ## [v1.0.6](https://gitlab.com/html-validate/html-validate/compare/v1.0.6) (2023-03-03)
 
 
