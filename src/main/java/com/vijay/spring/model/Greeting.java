@@ -1,3 +1,3 @@
-package com.vijay.spring;
+package com.vijay.spring.model;
 
 public record Greeting(long id, String content) { }
