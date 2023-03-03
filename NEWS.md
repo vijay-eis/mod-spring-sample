@@ -1,3 +1,22 @@
+## [v1.0.6](https://gitlab.com/html-validate/html-validate/compare/v1.0.6) (2023-03-03)
+
+
+
+### :sparkle: Features :sparkle:
+-  [US00021](https://rally1.rallydev.com/#/search?keywords=US00021)  Change route ([6961ac95f4b21fe](https://github.com/vijay-eis/mod-spring-sample/commit/6961ac95f4b21fe))
+
+
+### :lady_beetle: Fixes :lady_beetle:
+-  [US00020](https://rally1.rallydev.com/#/search?keywords=US00020)  Fix message ([8c9659dab4effae](https://github.com/vijay-eis/mod-spring-sample/commit/8c9659dab4effae))
+
+## [v1.0.5](https://gitlab.com/html-validate/html-validate/compare/v1.0.5) (2023-03-03)
+
+
+
+
+
+
+
 ## [v1.0.5](https://gitlab.com/html-validate/html-validate/compare/v1.0.5) (2023-03-03)
 
 
