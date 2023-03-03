@@ -1,6 +1,6 @@
 package com.vijay.spring.controller;
 
-import com.vijay.spring.Greeting;
+import com.vijay.spring.model.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
