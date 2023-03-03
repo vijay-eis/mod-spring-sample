@@ -1,3 +1,20 @@
+## [v1.0.5](https://gitlab.com/html-validate/html-validate/compare/v1.0.5) (2023-03-03)
+
+
+
+
+
+### :lady_beetle: Fixes :lady_beetle:
+-  [US00019](https://rally1.rallydev.com/#/search?keywords=US00019)  Remove redundant files ([eba9998d08301b4](https://github.com/vijay-eis/mod-spring-sample/commit/eba9998d08301b4))
+
+## [v1.0.4](https://gitlab.com/html-validate/html-validate/compare/v1.0.4) (2023-03-03)
+
+
+
+
+
+
+
         ## [v1.0.3](https://gitlab.com/html-validate/html-validate/compare/v1.0.3) (2023-03-02)
 
             ### :stop_sign: Breaking changes :stop_sign:
