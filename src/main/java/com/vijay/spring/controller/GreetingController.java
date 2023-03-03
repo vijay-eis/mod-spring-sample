@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicLong;
 @Log4j2
 public class GreetingController {
 
-    private static final String template = "Hello, %s!";
+    private static final String template = "Hi, %s!";
     private final AtomicLong counter = new AtomicLong();
 
     @GetMapping("/greet")
