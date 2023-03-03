@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.vijay</groupId>
     <artifactId>mod-spring-sample</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <name>mod-spring-sample</name>
     <description>mod-spring-sample</description>
     <properties>
