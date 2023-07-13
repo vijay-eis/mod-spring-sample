@@ -1,14 +1,12 @@
 ## [v1.0.8](https://gitlab.com/html-validate/html-validate/compare/v1.0.8) (2023-07-13)
 
 
-
 ### :sparkle: Features :sparkle:
 -  [US00022](https://rally1.rallydev.com/#/search?keywords=US00022)  Add Auth controller. ([96035e15e097289](https://github.com/vijay-eis/mod-spring-sample/commit/96035e15e097289))
 
 
 ### :lady_beetle: Fixes :lady_beetle:
 -  Incorrect response message ([3fefbc68d5f9d19](https://github.com/vijay-eis/mod-spring-sample/commit/3fefbc68d5f9d19))
-
 
 ## [v1.0.7](https://gitlab.com/html-validate/html-validate/compare/v1.0.7) (2023-03-03)
 
