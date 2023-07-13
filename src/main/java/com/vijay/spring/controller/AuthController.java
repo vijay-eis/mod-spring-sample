@@ -36,7 +36,7 @@ public class AuthController {
         Cookie cookie = new Cookie("token", "A1B2C3D4E5F6G7H8");
         cookie.setHttpOnly(true);
         response.addCookie(cookie);
-        return new ResponseEntity<>("OK",HttpStatus.OK);
+        return new ResponseEntity<>("LOGINOK",HttpStatus.OK);
     }
 
     @GetMapping("/auth/logout")
